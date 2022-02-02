@@ -1,0 +1,5 @@
+VARIABLES: Las variables serían como una "caja" donde podemos guardar diferentes tipos de datos para luego utilizarlos.
+STRIGNS: Los strings son "cadenas o hilos" de caracteres que se los reconoce porque se escriben entre comillas.
+FUNCIONES (Argumentos, return): Las funciones son bloques de códigos reutilizables a las que podemos setearle diferentes argumentos. 
+DECLARACIONES if: La declaración "if" es un operador de control de flujo que nos permite obtener diferentes resultados en nuestro código.
+VALORES BOOLEANOS (true, false): Un booleano es un código que tiene como resultado dos posibles valores, que en JavaScrip son "true" y "false".
