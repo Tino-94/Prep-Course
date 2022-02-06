@@ -1,0 +1,2 @@
+for: Es un bucle que se utiliza para realizar tareas repetitivas.
+&&, ||, ! : Los operadores lógicos son como operadores matemáticos pero para tipos de datos booleanos.
