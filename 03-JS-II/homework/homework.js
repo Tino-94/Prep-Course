@@ -231,8 +231,8 @@ function doWhile(numero) {
   //Usar el bucle do ... while.
   var i = 0;
   do {
-    i = i + 1;
-    numero = numero + 5;
+    i += 1;
+    numero += 5;
   }
   while (i < 8);
   return numero;
